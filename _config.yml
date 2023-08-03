@@ -20,8 +20,8 @@ author:
   # want it.
   info:
 
-url: http://steinvc.github.io
-baseurl: "/holo-alfa"
+url: https://papabondan.github.io/
+baseurl: "/artikel"
 
 # language attribute in <html> element.
 lang: en
