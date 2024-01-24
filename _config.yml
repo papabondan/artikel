@@ -1,6 +1,6 @@
 
 # The name of your website.
-name: Holo Alfa
+name: artikel
 
 description:
 
@@ -20,7 +20,7 @@ author:
   # want it.
   info:
 
-url: https://papabondan.github.io
+url: ""
 baseurl: "/artikel"
 
 # language attribute in <html> element.
